@@ -1,0 +1,3 @@
+- logiciel utilisé: Fusion 360 (pour Windows, licence étudiante gratuite)
+- exporter en .OBJ ou .STL
+- Imprimer avec Cura (régler sur Ultimaker 2)
